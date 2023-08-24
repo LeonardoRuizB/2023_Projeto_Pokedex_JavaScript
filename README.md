@@ -1,4 +1,4 @@
-#Pokédex em JavaScript
+# Pokédex em JavaScript
 
 Para acessar a Pokédex, você pode acessar o link, onde o deploy foi feito pelo próprio GitHub.
 
